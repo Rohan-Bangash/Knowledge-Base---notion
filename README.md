@@ -45,7 +45,7 @@ The knowledge base is organized into the following core sections:
 **Rohan Bangash**  
   Recent graduate in Information Technology  
   Passionate about learning and documenting real-world IT practices  
-  [https://www.linkedin.com/in/rohan-bangash/](#)
+  [Linkedin](https://www.linkedin.com/in/rohan-bangash/)
 
 ---
 
