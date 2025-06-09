@@ -2,6 +2,11 @@
 A structured IT knowledge base built in Notion, covering common troubleshooting procedures, tools, and real-world issues across Windows, networking, software, security, and hardware. Ideal for helpdesk, support technician, or IT generalist reference and learning.
 ---
 
+## View the Live Knowledge Base
+
+You can access the full IT Knowledge Base in Notion here:  
+[**View in Notion**](https://www.notion.so/IT-Support-Knowledge-Base-20cc75cb002480b8b35dcb52fa8b2587?source=copy_link)
+
 ## Overview
 
 This knowledge base is designed to provide practical resources IT technicians can rely on when resolving tickets and supporting end users. It covers practical steps, tools, and common issues across:
